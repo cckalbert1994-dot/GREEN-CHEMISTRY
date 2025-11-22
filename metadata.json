@@ -1,0 +1,5 @@
+{
+  "name": "EcoChem Slides",
+  "description": "A dynamic presentation generator for Green Chemistry and Energy Efficiency using Gemini 2.5.",
+  "requestFramePermissions": []
+}
